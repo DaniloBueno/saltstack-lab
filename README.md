@@ -40,7 +40,7 @@ sudo salt '*' state.highstate
 
 ## Considerations
 * Access HTTP server by http://[minion-ip]:8080
-* Pillar data configured to accept minion running Ubuntu or AWS Linux
+* Pillar data configured to accept minion running Ubuntu or Amazon Linux
 
 ## License
 
